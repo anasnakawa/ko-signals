@@ -1,0 +1,27 @@
+{
+  "name": "ko-signals",
+  "main": "ko-signals.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/anasnakawa/ko-signals",
+  "authors": [
+    "Anas Nakawa <anas.nakawa@gmail.com>"
+  ],
+  "description": "js-signals written using knockout observables",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "ko",
+    "knockout",
+    "signals",
+    "communication"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
